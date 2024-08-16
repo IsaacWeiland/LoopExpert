@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoopExpert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a933cc689a7628a97d62fe49e9c0fc4195bdd5c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e039aef6f657446f11b538d8aa456c38a552f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoopExpert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoopExpert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -204,7 +204,15 @@ class Program
     static string UserChoiceFromMenu()
     {
         Console.WriteLine("What would you like?");
-        return Console.ReadLine();
+        string wantedOrder = Console.ReadLine().ToLower();
+        while (wantedOrder is not ("cheeseburger" or "caeser salad" or "spaghetti bolognese"))
+        {
+            Console.WriteLine($"We do not have the {wantedOrder}");
+            Console.WriteLine("What would you like?");
+            wantedOrder = Console.ReadLine().ToLower();
+        }
+
+        return wantedOrder;
     }
 
     // 8. TODO: Complete the method to count the number of ingredients in the list.
