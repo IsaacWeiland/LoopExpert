@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amori\\Desktop\\Repos\\LoopExpert\\LoopExpert\\LoopExpert.csproj": {}
+    "C:\\Users\\0ni\\Desktop\\repos\\LoopExpert\\LoopExpert\\LoopExpert.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amori\\Desktop\\Repos\\LoopExpert\\LoopExpert\\LoopExpert.csproj": {
+    "C:\\Users\\0ni\\Desktop\\repos\\LoopExpert\\LoopExpert\\LoopExpert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amori\\Desktop\\Repos\\LoopExpert\\LoopExpert\\LoopExpert.csproj",
+        "projectUniqueName": "C:\\Users\\0ni\\Desktop\\repos\\LoopExpert\\LoopExpert\\LoopExpert.csproj",
         "projectName": "LoopExpert",
-        "projectPath": "C:\\Users\\amori\\Desktop\\Repos\\LoopExpert\\LoopExpert\\LoopExpert.csproj",
-        "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amori\\Desktop\\Repos\\LoopExpert\\LoopExpert\\obj\\",
+        "projectPath": "C:\\Users\\0ni\\Desktop\\repos\\LoopExpert\\LoopExpert\\LoopExpert.csproj",
+        "packagesPath": "C:\\Users\\0ni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\0ni\\Desktop\\repos\\LoopExpert\\LoopExpert\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\0ni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\0ni\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

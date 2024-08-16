@@ -1,0 +1,15 @@
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\LoopExpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\LoopExpert.AssemblyInfoInputs.cache
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\LoopExpert.AssemblyInfo.cs
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\LoopExpert.csproj.CoreCompileInputs.cache
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\LoopExpert.sourcelink.json
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\bin\Debug\net8.0\LoopExpert.exe
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\bin\Debug\net8.0\LoopExpert.deps.json
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\bin\Debug\net8.0\LoopExpert.runtimeconfig.json
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\bin\Debug\net8.0\LoopExpert.dll
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\bin\Debug\net8.0\LoopExpert.pdb
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\LoopExpert.dll
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\refint\LoopExpert.dll
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\LoopExpert.pdb
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\LoopExpert.genruntimeconfig.cache
+C:\Users\0ni\Desktop\repos\LoopExpert\LoopExpert\obj\Debug\net8.0\ref\LoopExpert.dll
